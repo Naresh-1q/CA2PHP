@@ -1,0 +1,17 @@
+[2025-10-29 16:36:12] New user registered: Naresh (narace000@gmail.com)
+[2025-10-29 16:36:22] Login attempt: narace000@gmail.com
+[2025-10-29 16:36:22] Users data: Array
+(
+    [0] => Array
+        (
+            [username] => Naresh
+            [email] => narace000@gmail.com
+            [password] => $2y$10$SxbtCSMe/saiJ9yyu0Ck4uyQ5S24zCTLEGpLUXr4XM6sq6pBybZ2C
+            [created_at] => 2025-10-29 16:36:12
+        )
+
+)
+
+[2025-10-29 16:36:22] Successful login: narace000@gmail.com
+[2025-10-29 16:36:35] Order placed: ORD1761752195564 by narace000@gmail.com - Total: ₹140
+[2025-10-29 16:36:57] User logged out: narace000@gmail.com
