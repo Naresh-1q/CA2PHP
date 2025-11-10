@@ -1,0 +1,15 @@
+[2025-11-10 13:59:22] New user registered: naresh bhat (narace000@gmail.com)
+[2025-11-10 13:59:29] Login attempt: narace000@gmail.com
+[2025-11-10 13:59:29] Users data: Array
+(
+    [0] => Array
+        (
+            [username] => naresh bhat
+            [email] => narace000@gmail.com
+            [password] => $2y$10$RmUVhp2R8h9Dc1mQMjA0kuxQr5YG0m7iKSkN8t5r7J.ElscKmrXk.
+            [created_at] => 2025-11-10 13:59:22
+        )
+
+)
+
+[2025-11-10 13:59:29] Successful login: narace000@gmail.com
